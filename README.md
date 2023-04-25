@@ -14,11 +14,7 @@ Dataset: https://data.ontario.ca/dataset/fuels-price-survey-information/resource
  
 ## Results
 
-1.  Clean and consistent data: After data cleaning, datasets should be free of errors, inconsistencies, and irrelevant information. This makes it easier to work with the data and draw accurate conclusions.
-2.  Improved data quality: Data cleaning can improve the quality of data by removing outliers, handling missing values, and standardizing the format.
-3.  More accurate analysis results: Clean data produces more accurate analysis results, which can help inform decision-making.
-4.  Easier data exploration: Clean data is easier to explore and visualize, which can help identify trends, patterns, and insights.
-5.  Improved data reliability: Clean data is more reliable because it is less likely to contain errors or inconsistencies that could affect the accuracy of analysis results.
+  Data cleaning is a process that removes errors, inconsistencies, and irrelevant information from datasets, resulting in clean and consistent data that improves the quality of data, produces more accurate analysis results, and is easier to explore and visualize. This process involves removing duplicates, handling missing values, detecting and correcting errors, standardizing data, and improving data quality. The benefits of data cleaning include improved data reliability, accurate analysis results, and easier data exploration and visualization, which ultimately leads to better decision-making and more successful outcomes.
 
 ## Summary
 
